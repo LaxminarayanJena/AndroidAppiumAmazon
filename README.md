@@ -23,9 +23,9 @@ appium version 1.17 </br>
 
 
 ### Preconfiguration-
-1)1email and password to be changed in the below file </br>
+1)email and password to be changed in the below file </br>
 testData-/src/test/resources/testdata </br>
 
 ### Running:
-2)project can be run from runner-testng.xml</br>
+project can be run from runner-testng.xml</br>
 or from maven root path using mvn clean test command
