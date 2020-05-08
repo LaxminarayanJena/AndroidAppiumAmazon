@@ -27,3 +27,4 @@ Preconfiguration-
 testData-/src/test/resources/testdata </br>
 
 2)project can be run from runner-testng.xml</br>
+or from maven root path using mvn clean test command
