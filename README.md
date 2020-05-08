@@ -29,3 +29,7 @@ testData-/src/test/resources/testdata </br>
 ### Running:
 project can be run from runner-testng.xml</br>
 or from maven root path using mvn clean test command
+
+### Report:
+<img width="1679" alt="Report" src="https://user-images.githubusercontent.com/24494133/81373530-90a2ff80-911a-11ea-9433-6f578be5a445.png">
+
