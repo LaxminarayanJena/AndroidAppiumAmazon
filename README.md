@@ -1,4 +1,4 @@
-# AppiumAmazonWipro
+# AppiumAmazonProject
 
 Framework Architecture
 ----------------------------------
