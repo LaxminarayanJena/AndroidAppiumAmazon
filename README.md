@@ -3,16 +3,16 @@
 Framework Architecture
 ----------------------------------
 
-1)Base</br>
-2)Listener</br>
-3)Screens</br>
-4)TestCases</br>
-5)Utility</br>
-6)Logs</br>
-7)apks</br>
-8)properties</br>
-9)testdata</br>
-10)runner</br>
+1)Base- All initialisation related to driver, utilities,property,waits has been done here </br>
+2)Listener -Custom and extent listener has been implemented for reporting, screenshot on failure </br>
+3)Screens- we have followed page object design model and separated our business scenarios from test cases </br>
+4)TestCases- all tests has been implemented </br>
+5)Utility-all type of resubale methods like excel reading, handling of property files etc </br>
+6)Logs- description for methods has been implemnted with logs </br>
+7)apks - amazon app is present </br>
+8)properties- all constant keys like url,package name has been defined </br>
+9)testdata- excel for parameterisation of test </br>
+10)runner -testng.xml to trigger our tests </br>
 11)extent report -  test-output/Extent.html </br>
 
 
